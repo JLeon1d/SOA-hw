@@ -1,0 +1,8 @@
+health-service
+
+go.work
+
+.git/
+.gitignore
+
+!README.md
